@@ -1,0 +1,5 @@
+{
+  "name": "Multi-Key Counter Pro",
+  "description": "A highly customizable multi-variable key counter that allows users to bind specific keyboard keys to increment or decrement multiple counters simultaneously. Perfect for gaming, research, or inventory tracking.",
+  "requestFramePermissions": []
+}
